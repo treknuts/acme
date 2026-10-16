@@ -2,6 +2,7 @@ packages:
   - .
 allowBuilds:
   sharp: set this to true or false
+  unrs-resolver: set this to true or false
 minimumReleaseAge: 2880
 onlyBuiltDependencies:
   - bcrypt
